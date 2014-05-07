@@ -10,11 +10,14 @@ Fisier de iesire: cel mai mare numar pitiprim care se poate forma din aranjament
 
 Am folosit: 
 		
-		- o functie care imi spune daca un numar este prim sau 
+- o functie care imi spune daca un numar este prim sau 
 nu(complexitate O(sqrt(n))
-		- o functie care imi spune daca un numar este pitiprim 
+
+- o functie care imi spune daca un numar este pitiprim 
 sau nu(verificand toate prefixele)
-		- o functie de actualizare a numarului cautat(trebuie returnat
+		
+- o functie de actualizare a numarului cautat(trebuie returnat
 cel mai mare numar pitiprim)
-		- o functie de backtracking care genereaza permutarile "utile" ale 
+		
+- o functie de backtracking care genereaza permutarile "utile" ale 
 numarului dar ca parametru si actualizeaza numarul pitiprim.
